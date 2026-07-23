@@ -1,7 +1,7 @@
 
 👋🏾 Hey, I'm Novuyo Carmalita Ndlovu
 
-**Computer Science student at NUST, Bulawayo** — building data systems, fintech tools, and AI applications for African contexts.
+**Computer Science student at NUST, Bulawayo** - building data systems, fintech tools, and AI applications for African contexts.
 
 Currently in my third year. I build things that solve real problems: a crop planning AI for Zimbabwean smallholder farmers, a multilingual fintech app for African users who don't speak English first, autonomous cybersecurity tooling, and agricultural marketplaces.
 
