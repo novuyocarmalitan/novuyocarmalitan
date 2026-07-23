@@ -9,9 +9,9 @@ Currently in my third year. I build things that solve real problems: a crop plan
 
 ## 🔨 What I'm Building
 
-**SoilSovereign** - Climate-adaptive crop planning and market intelligence platform for Zimbabwean smallholder farmers. Python-based recommendation engine integrating agronomic and weather data. Submitted to UbuntuNet Alliance Women Hackathon 2026 and POTRAZ AI for Impact Challenge 2026.
+**SoilSovereign** - Climate-adaptive crop planning and market intelligence platform for Zimbabwean smallholder farmers. Python-based recommendation engine integrating agronomic and weather data. **Submitted** to UbuntuNet Alliance Women Hackathon 2026 and POTRAZ AI for Impact Challenge 2026.
 
-**FinNexus** - Multilingual fintech mobile app (English, ChiShona, isiNdebele, isiZulu, isiXhosa). Micro-loans, budgeting, transaction analytics. Built in Flutter/Dart with Firebase Authentication.
+**FinNexus** - Multilingual fintech mobile app (English, isiNdebele, ChiShona). Micro-loans, budgeting, transaction analytics. Built in Flutter/Dart with Firebase Authentication.
 
 ---
 
